@@ -7,6 +7,7 @@ LeetCode Problems Solved
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MingoBingo/LeetCode/tree/master/0001-two-sum) |
+| [2048-build-array-from-permutation](https://github.com/MingoBingo/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MingoBingo/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [4058-compute-alternating-sum](https://github.com/MingoBingo/LeetCode/tree/master/4058-compute-alternating-sum) |
 ## Hash Table
@@ -16,10 +17,10 @@ LeetCode Problems Solved
 ## Simulation
 |  |
 | ------- |
+| [2048-build-array-from-permutation](https://github.com/MingoBingo/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [4058-compute-alternating-sum](https://github.com/MingoBingo/LeetCode/tree/master/4058-compute-alternating-sum) |
 ## Math
 |  |
 | ------- |
-| [3172-divisible-and-non-divisible-sums-difference](https://github.com/MingoBingo/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MingoBingo/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 <!---LeetCode Topics End-->
