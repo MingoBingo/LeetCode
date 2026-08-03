@@ -35,5 +35,18 @@ LeetCode Problems Solved
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/MingoBingo/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0645-set-mismatch](https://github.com/MingoBingo/LeetCode/tree/master/0645-set-mismatch) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/MingoBingo/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/MingoBingo/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/MingoBingo/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
