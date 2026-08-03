@@ -25,6 +25,7 @@ LeetCode Problems Solved
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/MingoBingo/LeetCode/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/MingoBingo/LeetCode/tree/master/0263-ugly-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MingoBingo/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Sorting
@@ -40,6 +41,7 @@ LeetCode Problems Solved
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/MingoBingo/LeetCode/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/MingoBingo/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Tree
 |  |
@@ -59,4 +61,8 @@ LeetCode Problems Solved
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MingoBingo/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/MingoBingo/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
