@@ -25,6 +25,7 @@ LeetCode Problems Solved
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/MingoBingo/LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/MingoBingo/LeetCode/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/MingoBingo/LeetCode/tree/master/0263-ugly-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MingoBingo/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
