@@ -74,4 +74,8 @@ LeetCode Problems Solved
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/MingoBingo/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/MingoBingo/LeetCode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
