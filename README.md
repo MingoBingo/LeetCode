@@ -66,4 +66,12 @@ LeetCode Problems Solved
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/MingoBingo/LeetCode/tree/master/0069-sqrtx) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/MingoBingo/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/MingoBingo/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
