@@ -7,6 +7,7 @@ LeetCode Problems Solved
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MingoBingo/LeetCode/tree/master/0001-two-sum) |
+| [0636-exclusive-time-of-functions](https://github.com/MingoBingo/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/MingoBingo/LeetCode/tree/master/0645-set-mismatch) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/MingoBingo/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2048-build-array-from-permutation](https://github.com/MingoBingo/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -78,4 +79,8 @@ LeetCode Problems Solved
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/MingoBingo/LeetCode/tree/master/0058-length-of-last-word) |
+## Stack
+|  |
+| ------- |
+| [0636-exclusive-time-of-functions](https://github.com/MingoBingo/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 <!---LeetCode Topics End-->
