@@ -7,6 +7,7 @@ LeetCode Problems Solved
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MingoBingo/LeetCode/tree/master/0001-two-sum) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/MingoBingo/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/MingoBingo/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/MingoBingo/LeetCode/tree/master/0645-set-mismatch) |
 | [1552-build-an-array-with-stack-operations](https://github.com/MingoBingo/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
@@ -31,6 +32,7 @@ LeetCode Problems Solved
 | ------- |
 | [0009-palindrome-number](https://github.com/MingoBingo/LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/MingoBingo/LeetCode/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/MingoBingo/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/MingoBingo/LeetCode/tree/master/0263-ugly-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MingoBingo/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/MingoBingo/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -86,6 +88,7 @@ LeetCode Problems Solved
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/MingoBingo/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/MingoBingo/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [1552-build-an-array-with-stack-operations](https://github.com/MingoBingo/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
