@@ -9,6 +9,7 @@ LeetCode Problems Solved
 | [0001-two-sum](https://github.com/MingoBingo/LeetCode/tree/master/0001-two-sum) |
 | [0636-exclusive-time-of-functions](https://github.com/MingoBingo/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/MingoBingo/LeetCode/tree/master/0645-set-mismatch) |
+| [1552-build-an-array-with-stack-operations](https://github.com/MingoBingo/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/MingoBingo/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2048-build-array-from-permutation](https://github.com/MingoBingo/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MingoBingo/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -22,6 +23,7 @@ LeetCode Problems Solved
 ## Simulation
 |  |
 | ------- |
+| [1552-build-an-array-with-stack-operations](https://github.com/MingoBingo/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [2048-build-array-from-permutation](https://github.com/MingoBingo/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [4058-compute-alternating-sum](https://github.com/MingoBingo/LeetCode/tree/master/4058-compute-alternating-sum) |
 ## Math
@@ -85,4 +87,5 @@ LeetCode Problems Solved
 |  |
 | ------- |
 | [0636-exclusive-time-of-functions](https://github.com/MingoBingo/LeetCode/tree/master/0636-exclusive-time-of-functions) |
+| [1552-build-an-array-with-stack-operations](https://github.com/MingoBingo/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
