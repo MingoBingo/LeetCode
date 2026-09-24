@@ -12,6 +12,7 @@ LeetCode Problems Solved
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/MingoBingo/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2048-build-array-from-permutation](https://github.com/MingoBingo/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MingoBingo/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/MingoBingo/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4058-compute-alternating-sum](https://github.com/MingoBingo/LeetCode/tree/master/4058-compute-alternating-sum) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ LeetCode Problems Solved
 | [0069-sqrtx](https://github.com/MingoBingo/LeetCode/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/MingoBingo/LeetCode/tree/master/0263-ugly-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MingoBingo/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/MingoBingo/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Sorting
 |  |
 | ------- |
